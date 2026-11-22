@@ -1,5 +1,5 @@
 students = [
-    {"name": "John", "grade": 4},
+    {"name": "Tom", "grade": 4},
     {"name": "Maria", "grade": 5}
 ]
 
